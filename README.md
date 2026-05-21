@@ -6,7 +6,7 @@ Our solution focuses on solving a time series forecasting problem eliminating ou
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 HBAAC_round2_LemonTeam_pipeline/
