@@ -1,6 +1,6 @@
 # HBAAC Round 2 — Lemon team: Forecasting System Pipeline 
 
-This repository contains the source code and production-ready pipeline developed by **LemonTeam** for Round 2 of the **HBAAC 2026** competition. 
+This repository contains the source code and production-ready pipeline developed by **Lemon team** for Round 2 of the **HBAAC 2026** competition. 
 
 Our solution focuses on solving a time series forecasting problem eliminating out-of-memory (OOM) bottlenecks using a **Vectorized Pivot Matrix Layout** and a **Multi-Tier Statistical Grouping Strategy**.
 
@@ -13,6 +13,7 @@ HBAAC_round2_LemonTeam_pipeline/
 ├── main.py                                   # End-to-end forecasting pipeline (All-in-one execution)
 └── README.md                                 # Documentation and project overview
 ```
+
 ## How to Run
 
 ---
