@@ -13,7 +13,7 @@ HBAAC_round2_LemonTeam_pipeline/
 ├── main.py                                   # End-to-end forecasting pipeline (All-in-one execution)
 └── README.md                                 # Documentation and project overview
 ```
-How to Run
+## How to Run
 
 ---
 
