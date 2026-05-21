@@ -20,7 +20,7 @@ How to Run
 1. Clone the repository
 
 ```bash
-git clone [https://github.com/buiduan07/HBAAC_round2_LemonTeam_pipeline.git](https://github.com/buiduan07/HBAAC_round2_LemonTeam_pipeline.git)
+git clone https://github.com/buiduan07/HBAAC_round2_LemonTeam_pipeline.git
 cd HBAAC_round2_LemonTeam_pipeline
 ```
 2. Prepare data & requirements
