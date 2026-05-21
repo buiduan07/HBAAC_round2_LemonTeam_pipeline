@@ -12,18 +12,23 @@ Our solution focuses on solving a time series forecasting problem eliminating ou
 HBAAC_round2_LemonTeam_pipeline/
 ├── main.py                                   # End-to-end forecasting pipeline (All-in-one execution)
 └── README.md                                 # Documentation and project overview
-
+```
 How to Run
+
+---
+
 1. Clone the repository
+
+```bash
 git clone [https://github.com/buiduan07/HBAAC_round2_LemonTeam_pipeline.git](https://github.com/buiduan07/HBAAC_round2_LemonTeam_pipeline.git)
 cd HBAAC_round2_LemonTeam_pipeline
-
-2. Prepare data & requirements
+```
+3. Prepare data & requirements
 Ensure you have pandas and numpy installed. Place the competition's train.csv and sample_submission.csv inside your directory.
 
-3. Run Execution
+4. Run Execution
 Execute the entire pipeline with a single command:
-
+```bash
 python main.py
-
+```
 The script will handle data cleaning, pivot indexing, grouping, forecasting, and formatting sequentially. Your final submission file submission.csv will be generated in the root workspace in less than 90 seconds.
